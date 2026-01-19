@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://www.gilbertnabaasa.info"><img src="https://img.shields.io/badge/Website-0E7490?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:ask@gilbertnabaasa.info"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ask@baasacloud.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nabaasagilbert"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -81,11 +81,11 @@ Tracking, SEO, and performance insights tied directly to business outcomes.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabaasaGilbert&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NabaasaGilbert&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ Tracking, SEO, and performance insights tied directly to business outcomes.
 
 If you are building something serious and want it done properly:
 
-📧 ask@gilbertnabaasa.info  
+📧 ask@baasacloud.com  
 📞 +256 754714999
 
 <p align="center">
